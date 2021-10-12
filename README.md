@@ -49,10 +49,9 @@ git checkout -b <your_branch_name>
 
 
 **9.** Check your status: .
-
-'''
+```
 git status
-'''
+```
 
 **10.** Track your changes:heavy_check_mark: .
 ```
