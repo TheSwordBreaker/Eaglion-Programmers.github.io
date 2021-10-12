@@ -43,6 +43,8 @@ git checkout -b <your_branch_name>
 ```
 **8.** Make necessary changes and commit those changes
 
+
+
 ![A cute kitten](https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif&style=centerme) {
   display:block;
   margin: 0 auto;
@@ -57,7 +59,7 @@ img[src$="centerme"] {
 }
   </style>
 
-<p align="center"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p>
+*[HTML]<p align="center"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p>
 
 **9.** Check your status: .
 '''
